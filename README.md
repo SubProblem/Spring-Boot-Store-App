@@ -25,9 +25,6 @@ Before running the application, make sure you have the following installed:
 
 - Java Development Kit (JDK)
 - PostgreSQL
-- Your favorite Java IDE (IntelliJ IDEA, Eclipse, etc.)
+- Java IDE 
 - Postman (optional, for API testing)
 
-## Getting Started
-
-1. Clone the repository:
